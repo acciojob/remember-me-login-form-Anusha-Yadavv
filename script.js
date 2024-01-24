@@ -11,7 +11,7 @@
       // Show "Login as existing user" button
       let existingBtn = document.createElement("button");
       existingBtn.id = "existing";
-      existingBtn.innerText = "Login as existing user";
+      existingBtn.innerText = "existing";
       document.body.appendChild(existingBtn);
 
       // Attach click event for "Login as existing user" button
